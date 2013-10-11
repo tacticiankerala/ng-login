@@ -1,6 +1,6 @@
 {
-  "name": "ng-boilerplate",
-  "version": "0.3.1",
+  "name": "ng-login",
+  "version": "0.9.0",
   "devDependencies": {
     "angular": "~1.0.7",
     "angular-mocks": "~1.0.7",
@@ -9,5 +9,17 @@
     "angular-ui-router": "~0.0.1",
     "angular-ui-utils": "~0.0.3"
   },
-  "dependencies": {}
+  "homepage": "https://github.com/tacticiankerala/ng-login",
+  "authors": [
+    "Sreenath N <tacticiankerala@gmail.com>"
+  ],
+  "description": "A Sign In, Sign up and Forgot Password module for AngularJS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }

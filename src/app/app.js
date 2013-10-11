@@ -1,8 +1,6 @@
-angular.module( 'ngBoilerplate', [
+angular.module( 'loginApp', [
   'templates-app',
   'templates-common',
-  'ngBoilerplate.home',
-  'ngBoilerplate.about',
   'ui.state',
   'ui.route'
 ])
