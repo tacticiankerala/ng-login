@@ -1,5 +1,7 @@
 This is an [AngularJS](http://angularjs.org) module to easily handle Sign up, Sign In and Forgot Password features for any webapp with RESTful APIs. 
 
+** WORK IN PROGRESS **
+
 This has the following dependencies:
   *
   *
